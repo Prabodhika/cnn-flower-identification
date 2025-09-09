@@ -185,4 +185,4 @@ print(dict(zip(labels, probs)))
 
 ## Acknowledgements
 - Flowers dataset (public demo/tutorial sources)  
-- TensorFlow/Keras community
+- TensorFlow/Keras community 
